@@ -5,7 +5,10 @@
 # 效果测试
 ## DVWA 
 
-https://github.com/badboycxcc/IoT-RCE-Scan/blob/main/20240409-121020.jpg
+![](https://github.com/badboycxcc/IoT-RCE-Scan/blob/main/20240409-120957.jpg)
+
+![](https://github.com/badboycxcc/IoT-RCE-Scan/blob/main/20240409-121020.jpg)
+
 
 
 
